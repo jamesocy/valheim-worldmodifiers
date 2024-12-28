@@ -1,0 +1,20 @@
+{
+    "serverName": "Valheim Server",
+    "port": "17741",
+    "worldName": "gogogo",
+    "password": "1234567",
+    "public": true,
+    "modifiers": {
+        "Combat": "veryeasy",
+        "DeathPenalty": "casual",
+        "Resources": "muchless",
+        "Raids": "none",
+        "Portals": "veryhard"
+    },
+    "extraSettings": {
+        "nobuildcost": true,
+        "passivemobs": false,
+        "playerevents": false,
+        "nomap": false
+    }
+}
