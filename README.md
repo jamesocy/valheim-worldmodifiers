@@ -1,7 +1,6 @@
 # 英灵神殿服务器参数修改器 🎮 / Valheim Server Modifier
 
-![valheim_config-zh](https://github.com/jamesocy/valheim-worldmodifiers/blob/main/valheim_config-zh.png)
-![valheim_config-us](https://github.com/jamesocy/valheim-worldmodifiers/blob/main/valheim_config-us.png)
+![valheim_config](https://github.com/jamesocy/valheim-worldmodifiers/blob/main/valheim_config.png)
 
 ## 简介 / Introduction 📝
 
