@@ -6,7 +6,6 @@
 ## 简介 / Introduction 📝
 
 我花了两天的时间收集关于 Valheim worldmodifiers 的配置问题，大多数的回答让我头昏脑胀。所以待我解决所有问题之后，我将这个程序做了出来，享受吧，朋友！
-
 I spent two days collecting information about Valheim worldmodifiers configuration. Most answers were confusing, so after solving all the problems, I created this program. Enjoy, friends!
 
 ## 使用说明 / Instructions ⚙️
