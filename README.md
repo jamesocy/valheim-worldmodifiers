@@ -1,5 +1,8 @@
 # 英灵神殿服务器参数修改器 🎮 / Valheim Server Modifier
 
+[valheim_config-zh](https://github.com/jamesocy/valheim-worldmodifiers/blob/main/valheim_config-zh.png)
+[valheim_config-us](https://github.com/jamesocy/valheim-worldmodifiers/blob/main/valheim_config-us.png)
+
 ## 简介 / Introduction 📝
 
 我花了两天的时间收集关于 Valheim worldmodifiers 的配置问题，大多数的回答让我头昏脑胀。所以待我解决所有问题之后，我将这个程序做了出来，享受吧，朋友！
