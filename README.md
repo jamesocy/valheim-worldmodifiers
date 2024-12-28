@@ -11,16 +11,8 @@ I spent two days collecting information about Valheim worldmodifiers configurati
 
 ## 使用说明 / Instructions ⚙️
 
-1. 文件请放在服务器的 Valheim dedicated server 根目录下
-1. Please place the file in the root directory of your Valheim dedicated server
-
-
-2. 设置好所有的配置后点击保存按钮后会产生一个 start_server.bat
-2. After setting all configurations and clicking the save button, a start_server.bat will be generated
-
-
-3. 双击 start_server.bat 享受游戏
-3. Double-click start_server.bat to enjoy the game
+文件请放在服务器的 Valheim dedicated server 根目录下
+Please place the file in the root directory of your Valheim dedicated server
 
 ## 注意事项 / Notes ⚠️
 
