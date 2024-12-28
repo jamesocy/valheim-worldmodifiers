@@ -5,14 +5,13 @@
 
 ## 简介 / Introduction 📝
 
-我花了两天的时间收集关于 Valheim worldmodifiers 的配置问题，大多数的回答让我头昏脑胀。所以待我解决所有问题之后，我将这个程序做了出来，享受吧，朋友！
-
-I spent two days collecting information about Valheim worldmodifiers configuration. Most answers were confusing, so after solving all the problems, I created this program. Enjoy, friends!
+- 我花了两天的时间收集关于 Valheim worldmodifiers 的配置问题，大多数的回答让我头昏脑胀。所以待我解决所有问题之后，我将这个程序做了出来，享受吧，朋友！
+- I spent two days collecting information about Valheim worldmodifiers configuration. Most answers were confusing, so after solving all the problems, I created this program. Enjoy, friends!
 
 ## 使用说明 / Instructions ⚙️
 
-文件请放在服务器的 Valheim dedicated server 根目录下
-Please place the file in the root directory of your Valheim dedicated server
+- 文件请放在服务器的 Valheim dedicated server 根目录下
+- Please place the file in the root directory of your Valheim dedicated server
 
 ## 注意事项 / Notes ⚠️
 
@@ -21,19 +20,19 @@ Please place the file in the root directory of your Valheim dedicated server
 
 ## 问题反馈 / Feedback 💬
 
-如有任何问题或建议，欢迎提出 Issue。
-For any questions or suggestions, please feel free to raise an Issue.
+- 如有任何问题或建议，欢迎提出 Issue。
+- For any questions or suggestions, please feel free to raise an Issue.
 
 ## 许可说明 / License Information ⚖️
 
 ### 自定义非商业许可证 / Custom Non-Commercial License
 
-您可以自由地为个人、教育或非商业目的使用、复制、修改和分享本软件。以下是您需要了解的内容：
-You are free to use, copy, modify, and share this software for personal, educational, or non-commercial purposes. Here's what you need to know:
+- 您可以自由地为个人、教育或非商业目的使用、复制、修改和分享本软件。以下是您需要了解的内容：
+- You are free to use, copy, modify, and share this software for personal, educational, or non-commercial purposes. Here's what you need to know:
 
 
 - **非商业使用**：您可以自由使用和调整本软件，但未经许可不得将其用于商业销售或分发。
-- - **Non-Commercial Use**: You are free to use and modify this software, but commercial sale or distribution is not permitted without permission.
+- **Non-Commercial Use**: You are free to use and modify this software, but commercial sale or distribution is not permitted without permission.
 
 
 - **《英灵神殿》知识产权**：本工具用于《英灵神殿》(Valheim) 游戏。使用本工具时，请确保遵守 Iron Gate AB 的用户协议。本工具与 Iron Gate AB 无关联，也未得到其认可。
